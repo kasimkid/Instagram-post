@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+    display: flex;
+}
+.post{
+    font-family: 'Wix Madefor Text';
+    margin: auto;
+    background-color: white;
+    width: 500px;
+    height: 600px;
+}
+.header{
+    display: flex;
+    background-color: white;
+    justify-content: space-between;
+}
+.logo{
+    display:flex;
+    width: 40px;
+    margin: auto;
+}
+.text{
+    width: 420px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    
+}
+.points{
+    display: flex;
+    width: 30px;
+    font-size: 30px;
+    justify-content: center;
+    margin-top: 10px;
+
+}
+.picture{
+    width: 500px;
+    height: 300px;
+}
+.iconos{
+display: flex;
+justify-content: space-between;
+padding: 10px;
+background-color: white;
+}
+.rigth{
+    font-size: 25px;
+}
+.left{
+    font-size: 25px;
+}
+.footer{
+    margin: 10px 10px;
+}
